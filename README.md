@@ -1,5 +1,7 @@
 # Rainbow Passage Remake
 
+The project is intended to remake the website front-end using React and modern web design best practices.
+
 Rainbow Passage has a flawed website:
 
 - Each page is a different style.
@@ -7,6 +9,51 @@ Rainbow Passage has a flawed website:
 - It does not follow usability best practices.
 
 This makes the charity look less professional and discourages user interaction.
+
+## Goals
+
+The success of this project will be based on the educational and practical value it provides.
+
+### Official Recognition
+
+To have the app distributed and recognized, if not used, by the Rainbow Passage charity (a response by email).
+
+### React Experience
+
+The final result of a working font-end that accurately reflects the contents of the original Rainbow Passage website.
+
+## Scope
+
+This is meant to be a personal project, not intended to take the place of living circumstances such as current work or seasonal events. Non-essential additions will be limited.
+
+### In Scope
+
+The website is meant to be a more clear and usable version of the original website.
+
+* A majority or all of the old website contents.
+* Mock forms for various tasks.
+* Photos and videos from the Pride community, when available and useful.
+* Necessary optimizations needed to make the website usable by the charity if desirable.
+
+### Out of Scope
+
+There will be self-imposed limits on the design, in order to avoid stepping on existing charity contributors and avoid having the design invalidated over time.
+
+* Data persstance of any kind.
+* Access to external services (web APIs or integrations).
+* Unproven web technologies.
+
+## Schedule
+
+There is no hard deadline for this project, rather it is limited to the time required to express the contents of the original design (made up of 4 main pages). It will be divided into X major parts:
+
+- Research and planning.
+- Wireframing and rough prototypes.
+- Minimum viable product (rough website).
+- Finalization.
+- Distribution (providing to Rainbow Passage).
+
+A ProjectLibre Gantt schedule named Rainbow Passage Schedule.pod is provided and will be maintained and expanded throughout the project based on these major parts.
 
 ## Available Scripts
 
